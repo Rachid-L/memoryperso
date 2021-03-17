@@ -1,0 +1,41 @@
+y {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	min-height: 100vh;
+	background: #a8b4b2;
+	background-image: linear-gradient(to top left, #726e74, #bcc0bf);
+	font-family: arial;
+	position: relative;
+	text-align: center;
+  }
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	img{
+		cursor:pointer;
+	}
